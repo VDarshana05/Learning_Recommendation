@@ -1,0 +1,101 @@
+student_id,age,grade_level,learning_pace,interests,avg_score,skill_level,career_goal
+0,19,2,medium,"['Software Engineering', 'Operating Systems', 'Machine Learning']",84.6193783787912,advanced,Data Scientist
+1,23,3,slow,"['Operating Systems', 'Computer Networks', 'Machine Learning']",62.762360463735135,intermediate,Researcher
+2,24,3,slow,"['Databases', 'Machine Learning', 'Computer Networks']",61.553616025346365,beginner,Researcher
+3,24,3,medium,"['Cybersecurity', 'Operating Systems', 'Machine Learning']",84.43286120786397,beginner,Security Analyst
+4,21,4,fast,"['Software Engineering', 'Algorithms', 'Data Structures']",82.3634579118555,advanced,Software Developer
+5,20,3,slow,"['Computer Networks', 'Data Structures', 'Cybersecurity']",50.76799401265185,intermediate,Data Scientist
+6,18,3,fast,"['Software Engineering', 'Machine Learning', 'Cybersecurity']",83.29825706650672,advanced,Software Developer
+7,20,2,fast,"['Computer Networks', 'Operating Systems', 'Algorithms']",93.66658077882474,intermediate,Researcher
+8,20,3,fast,"['Software Engineering', 'Algorithms', 'Data Structures']",72.92389126442718,beginner,Security Analyst
+9,21,4,fast,"['Computer Networks', 'Data Structures', 'Operating Systems']",72.24741421661145,beginner,Security Analyst
+10,18,4,slow,"['Cybersecurity', 'Operating Systems', 'Databases']",68.99380992848106,advanced,Researcher
+11,23,1,medium,"['Computer Networks', 'Databases', 'Data Structures']",88.4673344652399,intermediate,Software Developer
+12,23,4,medium,"['Cybersecurity', 'Computer Networks', 'Data Structures']",97.41829644673527,intermediate,Security Analyst
+13,22,3,medium,"['Cybersecurity', 'Software Engineering', 'Algorithms']",55.24214059860227,advanced,Data Scientist
+14,19,1,slow,"['Databases', 'Operating Systems', 'Algorithms']",62.05323319864947,advanced,Network Engineer
+15,19,2,fast,"['Software Engineering', 'Cybersecurity', 'Operating Systems']",86.25866532473611,advanced,Researcher
+16,23,1,fast,"['Cybersecurity', 'Data Structures', 'Software Engineering']",99.06096338082975,beginner,Security Analyst
+17,24,2,medium,"['Algorithms', 'Software Engineering', 'Operating Systems']",98.01857595308563,advanced,Network Engineer
+18,18,1,medium,"['Operating Systems', 'Machine Learning', 'Software Engineering']",67.58272997595274,intermediate,Security Analyst
+19,21,4,medium,"['Databases', 'Computer Networks', 'Algorithms']",66.02329208463249,intermediate,Security Analyst
+20,18,1,medium,"['Operating Systems', 'Machine Learning', 'Databases']",79.29614480897231,advanced,Software Developer
+21,23,1,medium,"['Cybersecurity', 'Algorithms', 'Machine Learning']",50.08748747543228,beginner,Researcher
+22,20,4,slow,"['Computer Networks', 'Cybersecurity', 'Algorithms']",64.38431417117356,advanced,Security Analyst
+23,18,2,medium,"['Computer Networks', 'Software Engineering', 'Cybersecurity']",65.2639178038548,beginner,Data Scientist
+24,21,3,slow,"['Computer Networks', 'Operating Systems', 'Software Engineering']",94.05126808371256,intermediate,Researcher
+25,18,2,fast,"['Data Structures', 'Cybersecurity', 'Software Engineering']",78.46997900351761,beginner,Software Developer
+26,19,4,fast,"['Algorithms', 'Software Engineering', 'Computer Networks']",69.81996621860851,intermediate,Network Engineer
+27,21,1,medium,"['Software Engineering', 'Data Structures', 'Computer Networks']",86.43420656978549,advanced,Software Developer
+28,20,2,fast,"['Databases', 'Algorithms', 'Software Engineering']",51.19124914701615,beginner,Security Analyst
+29,20,1,medium,"['Data Structures', 'Machine Learning', 'Algorithms']",54.87306778460709,advanced,Researcher
+30,23,1,medium,"['Software Engineering', 'Operating Systems', 'Databases']",55.82024865479805,intermediate,Security Analyst
+31,18,4,slow,"['Operating Systems', 'Computer Networks', 'Cybersecurity']",93.28255676141181,advanced,Data Scientist
+32,18,4,fast,"['Data Structures', 'Machine Learning', 'Operating Systems']",54.56500236292888,beginner,Network Engineer
+33,18,2,fast,"['Operating Systems', 'Databases', 'Machine Learning']",99.6357299288382,advanced,Security Analyst
+34,23,2,medium,"['Computer Networks', 'Databases', 'Cybersecurity']",75.2811482468546,intermediate,Network Engineer
+35,19,2,medium,"['Data Structures', 'Computer Networks', 'Databases']",53.867315034263534,beginner,Researcher
+36,19,4,slow,"['Algorithms', 'Databases', 'Software Engineering']",93.45119297357874,advanced,Network Engineer
+37,19,3,fast,"['Algorithms', 'Computer Networks', 'Databases']",75.32215772675461,intermediate,Network Engineer
+38,21,2,fast,"['Data Structures', 'Operating Systems', 'Computer Networks']",86.50858469964604,advanced,Researcher
+39,22,3,fast,"['Operating Systems', 'Algorithms', 'Cybersecurity']",60.745710698018925,intermediate,Network Engineer
+40,20,4,medium,"['Software Engineering', 'Machine Learning', 'Computer Networks']",73.64365301006943,beginner,Data Scientist
+41,18,4,slow,"['Data Structures', 'Software Engineering', 'Algorithms']",97.58639995518587,beginner,Security Analyst
+42,24,4,medium,"['Cybersecurity', 'Algorithms', 'Software Engineering']",81.01699119449327,beginner,Security Analyst
+43,21,2,slow,"['Algorithms', 'Data Structures', 'Computer Networks']",52.37361524259265,beginner,Software Developer
+44,24,1,slow,"['Software Engineering', 'Algorithms', 'Machine Learning']",51.00473146745572,beginner,Network Engineer
+45,20,2,fast,"['Machine Learning', 'Algorithms', 'Software Engineering']",95.37483011295018,advanced,Data Scientist
+46,18,3,slow,"['Machine Learning', 'Cybersecurity', 'Data Structures']",91.33846336387316,intermediate,Security Analyst
+47,19,1,medium,"['Operating Systems', 'Cybersecurity', 'Algorithms']",72.52976240437374,advanced,Network Engineer
+48,24,2,medium,"['Algorithms', 'Software Engineering', 'Data Structures']",60.109710465765346,beginner,Security Analyst
+49,22,1,medium,"['Operating Systems', 'Computer Networks', 'Databases']",92.43767394544133,advanced,Software Developer
+50,18,1,medium,"['Cybersecurity', 'Software Engineering', 'Data Structures']",87.38064231564329,beginner,Software Developer
+51,19,3,fast,"['Algorithms', 'Software Engineering', 'Machine Learning']",94.10627590465745,intermediate,Researcher
+52,21,1,medium,"['Algorithms', 'Machine Learning', 'Computer Networks']",96.145676506103,intermediate,Data Scientist
+53,24,3,fast,"['Machine Learning', 'Databases', 'Algorithms']",54.89133557001627,beginner,Security Analyst
+54,19,2,fast,"['Algorithms', 'Software Engineering', 'Machine Learning']",65.73904121678272,intermediate,Data Scientist
+55,22,3,fast,"['Computer Networks', 'Cybersecurity', 'Databases']",98.39289850187421,advanced,Data Scientist
+56,20,4,fast,"['Databases', 'Machine Learning', 'Cybersecurity']",74.94381544802624,intermediate,Security Analyst
+57,21,1,fast,"['Algorithms', 'Machine Learning', 'Cybersecurity']",66.42432428052047,intermediate,Data Scientist
+58,20,1,medium,"['Software Engineering', 'Data Structures', 'Cybersecurity']",85.74447136407812,intermediate,Security Analyst
+59,20,2,slow,"['Data Structures', 'Machine Learning', 'Cybersecurity']",51.5491691777614,advanced,Network Engineer
+60,21,1,medium,"['Algorithms', 'Cybersecurity', 'Operating Systems']",87.90665330780571,advanced,Software Developer
+61,19,3,fast,"['Databases', 'Data Structures', 'Machine Learning']",90.78598723624918,advanced,Researcher
+62,23,3,slow,"['Algorithms', 'Machine Learning', 'Data Structures']",67.70209534963135,advanced,Software Developer
+63,21,4,fast,"['Machine Learning', 'Cybersecurity', 'Operating Systems']",56.56361831763026,advanced,Security Analyst
+64,20,4,fast,"['Cybersecurity', 'Databases', 'Machine Learning']",67.02163085427702,advanced,Network Engineer
+65,21,3,fast,"['Databases', 'Algorithms', 'Data Structures']",78.23863426240477,advanced,Network Engineer
+66,24,3,medium,"['Software Engineering', 'Computer Networks', 'Databases']",73.95872389510578,intermediate,Researcher
+67,21,4,slow,"['Operating Systems', 'Databases', 'Data Structures']",57.41947984397096,advanced,Researcher
+68,19,2,slow,"['Data Structures', 'Databases', 'Cybersecurity']",74.38600743032232,advanced,Software Developer
+69,19,3,slow,"['Data Structures', 'Algorithms', 'Machine Learning']",52.387082249301095,advanced,Software Developer
+70,24,3,slow,"['Operating Systems', 'Software Engineering', 'Data Structures']",82.12910788148022,beginner,Data Scientist
+71,19,2,fast,"['Operating Systems', 'Machine Learning', 'Databases']",73.26718872121978,beginner,Researcher
+72,19,1,slow,"['Cybersecurity', 'Computer Networks', 'Data Structures']",78.39537495735311,advanced,Security Analyst
+73,20,1,slow,"['Software Engineering', 'Algorithms', 'Cybersecurity']",99.70355331445852,advanced,Researcher
+74,19,1,medium,"['Databases', 'Data Structures', 'Cybersecurity']",97.01663308178713,intermediate,Network Engineer
+75,21,1,medium,"['Machine Learning', 'Databases', 'Computer Networks']",91.98195429587207,intermediate,Network Engineer
+76,18,4,medium,"['Machine Learning', 'Software Engineering', 'Databases']",87.416998976663,beginner,Researcher
+77,24,2,fast,"['Cybersecurity', 'Databases', 'Machine Learning']",72.44328348055124,advanced,Researcher
+78,19,3,medium,"['Databases', 'Algorithms', 'Machine Learning']",82.43647833635643,advanced,Researcher
+79,22,3,slow,"['Cybersecurity', 'Databases', 'Operating Systems']",73.98194766264479,advanced,Data Scientist
+80,18,3,slow,"['Algorithms', 'Computer Networks', 'Machine Learning']",56.369720365930206,advanced,Software Developer
+81,21,4,slow,"['Machine Learning', 'Operating Systems', 'Data Structures']",72.74396391346292,beginner,Security Analyst
+82,19,4,medium,"['Software Engineering', 'Databases', 'Computer Networks']",58.966671249370975,intermediate,Network Engineer
+83,18,1,slow,"['Cybersecurity', 'Computer Networks', 'Data Structures']",84.56647438122695,intermediate,Network Engineer
+84,24,2,slow,"['Databases', 'Data Structures', 'Machine Learning']",71.18836599444106,intermediate,Data Scientist
+85,21,1,medium,"['Operating Systems', 'Software Engineering', 'Data Structures']",83.20709050794324,beginner,Researcher
+86,18,2,fast,"['Machine Learning', 'Operating Systems', 'Databases']",90.50844670219018,intermediate,Data Scientist
+87,24,2,fast,"['Databases', 'Computer Networks', 'Algorithms']",60.16266760253397,beginner,Data Scientist
+88,21,1,slow,"['Machine Learning', 'Databases', 'Data Structures']",61.73562075502353,intermediate,Data Scientist
+89,18,2,fast,"['Cybersecurity', 'Machine Learning', 'Algorithms']",97.22162451833259,intermediate,Software Developer
+90,24,1,medium,"['Computer Networks', 'Machine Learning', 'Operating Systems']",59.22123693516427,intermediate,Security Analyst
+91,20,3,fast,"['Machine Learning', 'Algorithms', 'Operating Systems']",79.59412784793841,beginner,Network Engineer
+92,22,3,fast,"['Databases', 'Computer Networks', 'Algorithms']",59.28860060112204,beginner,Network Engineer
+93,21,2,slow,"['Operating Systems', 'Databases', 'Computer Networks']",81.07520773899184,beginner,Researcher
+94,19,3,slow,"['Machine Learning', 'Operating Systems', 'Computer Networks']",80.42896002186654,intermediate,Security Analyst
+95,23,1,medium,"['Data Structures', 'Operating Systems', 'Computer Networks']",56.813842311473714,advanced,Software Developer
+96,22,1,medium,"['Software Engineering', 'Machine Learning', 'Data Structures']",70.19392527680589,beginner,Network Engineer
+97,23,3,medium,"['Cybersecurity', 'Algorithms', 'Software Engineering']",70.2288970900941,intermediate,Network Engineer
+98,21,2,slow,"['Software Engineering', 'Computer Networks', 'Cybersecurity']",66.44185897914566,intermediate,Software Developer
+99,18,3,fast,"['Databases', 'Data Structures', 'Machine Learning']",74.74614106097275,beginner,Data Scientist

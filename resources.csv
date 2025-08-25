@@ -1,0 +1,11 @@
+resource_id,topic,resource_type,difficulty,url
+1,Data Structures,video,easy,https://www.khanacademy.org/computing/computer-science/algorithms
+2,Algorithms,quiz,medium,https://leetcode.com/problemset/algorithms/
+3,Operating Systems,reading,hard,https://pages.cs.wisc.edu/~remzi/OSTEP/
+4,Machine Learning,podcast,medium,https://lexfridman.com/podcast/
+5,Cybersecurity,coding_challenge,hard,https://www.hackthebox.eu/
+6,Software Engineering,video,medium,https://www.edx.org/course/software-development-processes
+7,Databases,reading,medium,https://www.postgresqltutorial.com/
+8,Computer Networks,video,hard,https://www.coursera.org/learn/computer-networking
+9,Programming Languages,video,easy,https://www.learnpython.org/
+10,Artificial Intelligence,video,hard,https://ai.google/education/
